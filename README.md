@@ -63,15 +63,15 @@ recommendations, and support data-driven business decisions.
 
 ## Project Files
 
--  restaurant_analysis.ipynb – Python analysis
--  cleaned_data.csv – cleaned dataset
--  data.xlsx
--  Country-Code.xlsx
+- `restaurant_analysis.ipynb` – Python data cleaning and exploratory data analysis
+- `cleaned_data.csv` – cleaned dataset prepared for visualization
+- `data.xlsx` – original restaurant dataset
+- `Country-Code.xlsx` – country code reference data
+- `capstone project tableau.twbx` – Tableau dashboard workbook
 
 ## Dashboard
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/pallavi.rathod7053/viz/capstoneprojecttableau_17902366938090/Dashboard1?publish=yes)
-
 ## Author
 
 **Pallavi Rathod**
